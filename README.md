@@ -2,6 +2,7 @@
 Analyze your fitness data from Runkeeper!
 
 
+
 ProjectDescription:-
 
 With the explosion in fitness tracker popularity, runners all of the world are collecting data withgadgets (smartphones, watches, etc.) to keep themselves motivated. 
@@ -20,26 +21,27 @@ They look for answers to questions like:
 The data is a CSV file where each row is a single training activity.
 
 
+
 Project Tasks:-
 
-•1. Obtain and review raw data
+1. Obtain and review raw data
 
-•2. Data preprocessing
+2. Data preprocessing
 
-•3. Dealing with missing values
+3. Dealing with missing values
 
-•4. Plot running data
+4. Plot running data
 
-•5. Running statistics
+5. Running statistics
 
-•6. Visualization with averages
+6. Visualization with averages
 
-•7. Did I reach my goals?
+7. Did I reach my goals?
 
-•8. Am I progressing?
+8. Am I progressing?
 
-•9. Training intensity
+9. Training intensity
 
-•10. Detailed summary report
+10. Detailed summary report
 
-•11. Fun facts
+11. Fun facts
